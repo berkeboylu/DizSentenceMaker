@@ -1,4 +1,4 @@
-x = open("text.txt", "r", encoding="utf-8").read();
+x = open("text.txt", "r", encoding="utf-8").read()
 b = list(x)
 list = ["b", "c", "ç", "d" ,"f" , "g", "ğ", "h", "j", "k", "l", "m", "n", "p", "r", "s", "ş", "t", "v", "y", "z"]
 li = ["ß", "C", "Ç", "D" ,"F", "G", "Ğ", "H", "J", "K", "L", "M", "N", "P", "R", "$", "$", "T", "V", "Y", "Z"]
